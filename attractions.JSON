@@ -1,14 +1,42 @@
 [
   {
-    "name": "Roller Coaster 1",
-    "description": "Description of Roller Coaster 1"
+    "name": "Rodeo Round-Up",
+    "description": "Hop on this wild ride and experience the thrill of the Rodeo Round-Up! Hold on tight as you twist and turn through a series of dips and dives, just like a cowboy wrangling a bucking bronco. With its Western-themed decor and adrenaline-pumping maneuvers, this ride is sure to leave you feeling like a true rodeo champion!"
   },
   {
-    "name": "Roller Coaster 2",
-    "description": "Description of Roller Coaster 2"
+    "name": "Bronco Blast",
+    "description": "Saddle up for an exhilarating ride on the Bronco Blast! Feel the wind rush through your hair as you ride atop your very own mechanical bronco, trying to stay mounted as it bucks and spins. With its authentic Western design and heart-pounding action, this ride is perfect for thrill-seekers looking for a taste of the Wild West!"
   },
   {
-    "name": "Roller Coaster 3",
-    "description": "JSON Roller Coaster whoop."
+    "name": "Desert Duel",
+    "description": "Step into the heart of the Wild West with Desert Duel! Take a seat in your rugged mine cart and embark on a high-speed race through a dusty desert canyon. Dodge obstacles, navigate treacherous turns, and outmaneuver bandits as you compete to be the fastest gunslinger in the West. With its immersive theming and thrilling twists, Desert Duel is a ride you won't soon forget!"
+  },
+  {
+    "name": "Stampede Express",
+    "description": "All aboard the Stampede Express! Climb aboard this classic steam train and journey through the scenic landscapes of the Old West. As you chug along the tracks, keep an eye out for cowboys, cattle, and maybe even a few outlaws! With its authentic Western charm and leisurely pace, Stampede Express is fun for the whole family!"
+  },
+  {
+    "name": "Gold Rush Rapids",
+    "description": "Brace yourself for a wet and wild adventure on Gold Rush Rapids! Climb aboard your trusty log raft and navigate the rushing waters of an Old West gold mining town. But beware of dynamite blasts, surging rapids, and hidden treasures along the way! With its thrilling drops and immersive theming, Gold Rush Rapids is a splash-tacular ride for all ages!"
+  },
+  {
+    "name": "Cactus Canyon Coaster",
+    "description": "Get ready for a spine-tingling journey through Cactus Canyon! Strap into your mine cart and prepare to plummet down steep drops, zoom around hairpin turns, and dodge giant cacti as you race through the rugged desert landscape. With its thrilling twists and turns, Cactus Canyon Coaster is a must-ride for adrenaline junkies and thrill-seekers alike!"
+  },
+  {
+    "name": "Saloon Swing",
+    "description": "Step right up and take a swing at the Saloon Swing! Climb aboard this classic swing ride and soar through the air like a cowboy on a bucking bronco. With its Western-themed decor and gentle swaying motion, Saloon Swing is the perfect way to relax and enjoy the sights and sounds of Robert's Rodeo."
+  },
+  {
+    "name": "Prairie Plunge",
+    "description": "Embark on a heart-stopping free fall aboard Prairie Plunge! Ascend to the top of a towering cliff and brace yourself for the ultimate adrenaline rush as you plummet towards the earth below. With its breathtaking views and thrilling drop, Prairie Plunge is sure to leave you screaming for more!"
+  },
+  {
+    "name": "Stagecoach Sprint",
+    "description": "Hold on tight as you race through the Old West on Stagecoach Sprint! Climb aboard your very own stagecoach and dash through dusty trails, rocky canyons, and bustling frontier towns. With its authentic theming and high-speed action, Stagecoach Sprint is a wild ride you won't want to miss!"
+  },
+  {
+    "name": "Wild West Wheel",
+    "description": "Take a spin on the Wild West Wheel and see Robert's Rodeo from new heights! Climb aboard one of the colorful gondolas and soar high above the park, taking in panoramic views of the Western landscape below. With its gentle rotation and breathtaking vistas, Wild West Wheel is fun for cowboys and cowgirls of all ages!"
   }
 ]
